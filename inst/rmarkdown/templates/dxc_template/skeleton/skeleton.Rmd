@@ -3,7 +3,7 @@ title: "Untitled"
 author: "DXC Data Science Team"
 date: "`r Sys.Date()`"
 output: 
-    DXCr::html_DXC
+    dxcrmd::html_DXC
 ---
 
 ```{r setup, include=FALSE}
