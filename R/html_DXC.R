@@ -1,6 +1,7 @@
 #' Generate a DXC markdown document
 #'
 #' @return A databook.
+#' @export
 html_DXC <- function() {
 
 header <- system.file("rmarkdown/templates/dxc_template/skeleton/header.html",
