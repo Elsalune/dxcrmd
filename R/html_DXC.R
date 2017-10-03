@@ -1,8 +1,8 @@
 
 html_DXC <- function() {
 
-header <- system.file("rmarkdown/templates/my_template/skeleton/header.html", package="DXCr")
-style <- system.file("rmarkdown/templates/my_template/skeleton/styles.css", package="DXCr")
+header <- system.file("rmarkdown/templates/dxc_template/skeleton/header.html", package="dxcrmd")
+style <- system.file("rmarkdown/templates/dxc_template/skeleton/styles.css", package="dxcrmd")
 
   # call the base html_document function
   rmarkdown::html_document(title = " ",

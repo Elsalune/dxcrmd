@@ -4,7 +4,23 @@ body {
 
 h1{
   border-bottom-style: solid;
+  font-size:35px;
+}
+
+h2{
+  font-size:30px;
+}
+
+h3{
   font-size:25px;
+}
+
+h4{
+  font-size:20px;
+}
+
+h5{
+  font-size:20px;
 }
 
 p code {
